@@ -11,10 +11,10 @@
 
 ### About Me
 
-- 🎓 BS in Computer Science, **FAST-NUCES**, Karachi — graduated June 2026
+- 🎓 BS in Computer Science, **FAST-NUCES**, Karachi 
 - 💻 Full Stack Developer & AI/ML Engineer with hands-on experience building web, mobile, and AI-powered production systems
 - 🤖 Specialized focus on **LLM/RAG systems, multi-agent architectures, and applied AI infrastructure**
-- 🛠️ Experience owning projects end-to-end — architecture, implementation, deployment, and monitoring
+- 🛠️ Experience owning projects end-to-end  architecture, implementation, deployment, and monitoring
 - 🌱 Currently deepening expertise in AI evaluation, fine-tuning (LoRA/QLoRA), and scalable RAG pipelines
 - 💬 Fluent in English and Urdu
 
